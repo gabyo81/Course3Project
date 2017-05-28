@@ -1,6 +1,6 @@
-#Study Design
-##Date: 05/28/2017
-##Project Name: Data Science Specialization Course 3 Project
+# Study Design
+## Date: 05/28/2017
+## Project Name: Data Science Specialization Course 3 Project
 
 This is the project for the coursera Course 3: Getting and Tidying Data. 
 The data used in this project was collected using the following URL
