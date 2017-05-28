@@ -8,6 +8,8 @@ The data used in this project was collected using the following URL
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 from the UCI Center for Machine Learning Systems.
 
+Extract the zip file in a folder that will become your working directory for the run_analysis.R file to run properly.
+
 The project includes the following files:
 * **Readme.md** : This is the Readme File you are using
 * **run_analysis.R** : The script to process and summarize the Data from the URL above, giving a final dataset as output. The dataset gives the average of the Activities and Subjects information
