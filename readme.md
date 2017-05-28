@@ -28,7 +28,8 @@ This is a summary of all the variables used in the script run_analysis.R.
 * **features** : Holds the original data of the file features.txt in the data of the URL.
 
 * **activity_labels** : Holds the orginal data of the file activity_labels.txt in the data of the URL.
-the values included here are :
+the values included here are
+
 Code | Label
 ---- | -----
 1 | WALKING
