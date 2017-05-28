@@ -2,26 +2,26 @@
 
 
 The list of variables listed in the tidyDataSet.txt files are the following:
-*activity   
-*subject_id
-*tBodyAccMag.mean
-*tBodyAccMag.std
-*tGravityAccMag.mean
-*tGravityAccMag.std
-*tBodyAccJerkMag.mean
-*tBodyAccJerkMag.std
-*tBodyGyroMag.mean
-*tBodyGyroMag.std
-*tBodyGyroJerkMag.mean
-*tBodyGyroJerkMag.std
-*fBodyAccMag.mean
-*fBodyAccMag.std
-*fBodyBodyAccJerkMag.mean
-*fBodyBodyAccJerkMag.std
-*fBodyBodyGyroMag.mean
-*fBodyBodyGyroMag.std
-*fBodyBodyGyroJerkMag.mean
-*fBodyBodyGyroJerkMag.std
+* activity   
+* subject_id
+* tBodyAccMag.mean
+* tBodyAccMag.std
+* tGravityAccMag.mean
+* tGravityAccMag.std
+* tBodyAccJerkMag.mean
+* tBodyAccJerkMag.std
+* tBodyGyroMag.mean
+* tBodyGyroMag.std
+* tBodyGyroJerkMag.mean
+* tBodyGyroJerkMag.std
+* fBodyAccMag.mean
+* fBodyAccMag.std
+* fBodyBodyAccJerkMag.mean
+* fBodyBodyAccJerkMag.std
+* fBodyBodyGyroMag.mean
+* fBodyBodyGyroMag.std
+* fBodyBodyGyroJerkMag.mean
+* fBodyBodyGyroJerkMag.std
 
 
 The original data for this project is a series of experiments that have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
