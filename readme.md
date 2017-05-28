@@ -19,14 +19,15 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 # CodeBook
 This is a summary of all the variables used in the script run_analysis.R.
 
-* x_test: Holds the orginal data of the file x_test.txt in the data of the URL. Data of observations per subject, it has all of the measurements in columns. For a complete list of measurements you can look at the content of the variable features
+* **x_test** : Holds the orginal data of the file x_test.txt in the data of the URL. Data of observations per subject, it has all of the measurements in columns. For a complete list of measurements you can look at the content of the variable features
 
-* y_test: Holds the orginal data of the file y_test.txt in the data of the URL. Data of of activities done, this table can relate with the activity_labels variable
-subject_test: Holds the orginal data of the file subject_test.txt in the data of the URL. This variable holds all of the subjects ids that relates to each obversation in the x_test variable
+* **y_test** : Holds the orginal data of the file y_test.txt in the data of the URL. Data of of activities done, this table can relate with the activity_labels variable
+ 
+* **subject_test**: Holds the orginal data of the file subject_test.txt in the data of the URL. This variable holds all of the subjects ids that relates to each obversation in the x_test variable
 
-* features: Holds the original data of the file features.txt in the data of the URL.
+* **features** : Holds the original data of the file features.txt in the data of the URL.
 
-* activity_labels: Holds the orginal data of the file activity_labels.txt in the data of the URL.
+* **activity_labels** : Holds the orginal data of the file activity_labels.txt in the data of the URL.
 the values included here are :
 code | label
 ----- | ------
