@@ -44,6 +44,7 @@
    full_x_df2 <- select(full_x_df,-source)
    final_dataset <- summarise_each(group_by(full_x_df2, activity, subject_id),funs(mean))
    final_dataset <- select(final_dataset,-row_seq)
+   write.table(final_dataset,row.names = FALSE)
    final_dataset
    
   
